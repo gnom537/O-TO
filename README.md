@@ -11,7 +11,7 @@
  <nav>
   <div class="search-box">
   <form action="#">
-    <input type="text" placeholder="Ведите номер маршрута." name="search">
+    <input type="text" placeholder="Введите номер маршрута." name="search">
     <button type="submit">Расчитать оптимитизацию</button>
   </form>
   </div>
