@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
@@ -8,13 +7,13 @@
     <h1>Добро пожаловать на сайт для оптимальности ТО автобусов!</h1>
     <p>Благодаря оптимальности можно вычисллить наилучшее значиения для обслуживания АМ, тем самым увеличив долговечность и уменьшить затраты. L.</p>
     <img src="C:\Users\Alex\Desktop" alt="АТ ИТС ">
-    <p>Ведите номер маршрута.</p>
+    <a href="[адрес ссылки](https://sun9-58.userapi.com/"><img src="impg/RgLk9Q9nzQ-8yki_nW3d-jsFWI1SAB3yfxm68A/miy0Iz1EEC8.jpg?size=604x539&quality=95&sign=de767278dfebb5c1f743c7aaa4cfccd0&type=album)"></a>
 </body>
 </html>
  <nav>
   <div class="search-box">
   <form action="#">
-    <input type="text" placeholder="Поиск.." name="search">
+    <input type="text" placeholder="Ведите номер маршрута." name="search">
     <button type="submit">Расчитать оптимитизацию</button>
   </form>
   </div>
