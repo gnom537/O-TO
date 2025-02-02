@@ -12,7 +12,7 @@
   <a class="active" href="100">Замена Масла в ДВС</a>&emsp;&emsp;&emsp;<a href="100">Замена тормозных агрегатов</a>&emsp;&emsp;&emsp;<a href="100">Замена масла в коробке</a>
   <div class="search-box">
   <form action="#">
-    <input type="text" placeholder="Введите номер маршрута." name="search">
+    <p><input type="text" placeholder="Введите номер маршрута." name="search"></p>
     <button type="submit">Расчитать оптимитизацию</button>
   </form>
   </div>
