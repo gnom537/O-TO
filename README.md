@@ -9,6 +9,9 @@
 </body>
 </html>
  <nav>
+      <a class="active" href="#">Замена Масла в ДВС</a>
+  <a href="#">Замена тормозных агрегатов</a>
+  <a href="#">Замена масла в коробке</a>
   <div class="search-box">
   <form action="#">
     <input type="text" placeholder="Введите номер маршрута." name="search">
@@ -16,3 +19,4 @@
   </form>
   </div>
 </nav>
+<nav>
